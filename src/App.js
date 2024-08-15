@@ -32,7 +32,7 @@ function App() {
       <div className='z-10 font-bold text-7xl md:text-[140px] text-white'>GIGABRAIN</div>
 
       <div className="absolute top-5 text-white text-[10px] md:text-xl z-10">
-        CA: XXXXXXXXXXXXXXXXXXXXXXX
+        CA: 9BFeiSzLtWP8NAUmm5WNwDR9jH7zp19hB1rhqueTpump
       </div>
     </div>
   );
