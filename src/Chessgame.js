@@ -40,7 +40,7 @@ const ChessGame = () => {
           </div>
         )}
         <Chessboard
-          width={500}
+          width={350}
           position={fen}
           onDrop={({ sourceSquare, targetSquare }) => handleMove({ sourceSquare, targetSquare })}
           boardStyle={{
